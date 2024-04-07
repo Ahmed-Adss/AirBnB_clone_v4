@@ -156,7 +156,5 @@ No known bugs at this time.
 ## Author
 Ahmed Ibrahim Ali Ahmed   <eng.ahmedads@gmail.com>
 
-
-Second part of Airbnb: Joann Vuong
 ## License
 Public Domain. No copy write protection. 
